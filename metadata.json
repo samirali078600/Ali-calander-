@@ -1,0 +1,6 @@
+{
+  "name": "Ali Calendar",
+  "description": "Plan your days. Discover every date. Modern calendar with personal planner, holidays, festivals, Islamic & Panchang calculations, astronomy, historical events, famous birthdays, daily facts, date tools, and AI assistant.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
